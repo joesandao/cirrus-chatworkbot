@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cirrus-admin-dashboard",
+  "private_key_id": "e7c8a6668840de8154aec0fc92be1b6d58412631",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeZFMXAD+/KqEu\ngftQeinkrQ1vxNWw5sFOCEcu3g5vBgzVu3nD2e+hWJJrLvl5KdXkprnLwxk9cSlQ\nBT78w3Bg8RzVqGo/xWK1kN9qN3X+CjT9I0MT3+lsqtnsU/Ybk+NbEYgBfJ3DEfTb\n5ge23hyfeVHbSXhGTXKHXBt/VV/1aQI4M3jnXDTO40Kn253ZYZMqLSxachAff43G\nqbd8vQiOB6MpjSKXCoNcqkeDhLZQjUIPMeo3jDvDxTvcjh2I3ymiJgENebPPo8fx\nZaXPZtbq37JlK6KjJevrbxtWj+sHWq+W2ZwhWqfnNFeUu+dPyG8gfnEOsy9KSLDh\nSfptEpxFAgMBAAECggEAM3RP8cbo7odAuUUMiUZGWb1GAislaERuQ5U42qbUdYi3\nnq86jT89M2L8nckyzgOjMpZfASyuBGHAk/hAUAiFd1icj2QYsALFYEph6bV+pTpX\noGxWHBy/Tcfq53UXHDpcv3bggesjrP0mWFFP7D4Xek8FIoGpit0Z+ZMYc7MeazBg\n67oBdvGVlcODY1F/4sRi8KXSFGIhQIjp+2jlQPWeYGAmAKMxdEDElXeb65FufqYb\ncIX4RRUg8zZaqAq5Pjo+TLXhX6C2CEzJ4rLiw+pOTp0bw20Ya1yQNQwOucwEzT+f\nZ3itReWQb6CZBRgIVgoagTUdq4v/FPH1XKkqSupveQKBgQDLXFnZZ3z/iwAnrZ0F\nuCWUIV9DPOIUveuwLxmy3ZfneyttnxmYfsXyKuztJoFIRvllsjFGRgwNktQVkWhO\njAAcQ7lmavMLtyuTjy5anWAzJBK+2ue0dz1IJWY9l4B/PunPdpBYL2bTl9zUxuOR\nQnb9t65982CqET27VQTNaN18DwKBgQDHZB+v46+iEeypuLNikeA6thEwx1Ib0KhA\nt65oZu6wyid6PSsByuZn5kvNOwQgYflSYzCuMxbScNL4SIiobRC7FhVIGuncufKc\nbNYYQBTl5lwV5kQTlgZF6mSv+62t5u4Eki45vdQa2txfgQtf6UN89g5GETnQjnnS\nF6zQnqoeawKBgE7vE7j9IFmYPIEqNE6qAXwT0AQrN53RchA62ADDXljtSBgOr0Kv\nwmmTG8+ZKIlDcz50AghC3B7QpR2SCSij0s8lwmrsjFY5zOJDqzxk5Zg0IkqOcW1s\n8w5z5dF2YtwBMYPjg3eXPpRW19KHOIGDiOhGSaZ9t0GL26hBAdIxJ/clAoGBALsN\nEbDm7zgiipt5u0doRCuv65aQFlYjvAPijQpCLf/J1ZkWUwc+ekHUSR5CFA/w+X0x\nslRpdyp6T2A+Y31lu8FW6SYYoXXBN3lJnNtpGnHGVnLw7sJVBpOGXWi+uWMf9gBx\nxk3C6H08/mnV3H7gjMBo8GEI/ezKDDxsm2Gmxz77AoGBALRZ1Lx+6yjpAQid7/lK\ni8O+EA5qPUcBW1DmG8JHIzievqngAlOJf4UrBwpyywYC3o1ldiLANv/HiVHgemLt\ngAz/EuYU6G8M1RU1dkLewgFIs0IvkdvGH/nctt3eGPFcfwIcBsrpeZrTeLmWBqSM\nB842/9+ueNho4Q7uh+KaCdpf\n-----END PRIVATE KEY-----\n",
+  "client_email": "cirrus-apilinkage@cirrus-admin-dashboard.iam.gserviceaccount.com",
+  "client_id": "101103545037166323507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cirrus-apilinkage%40cirrus-admin-dashboard.iam.gserviceaccount.com"
+}

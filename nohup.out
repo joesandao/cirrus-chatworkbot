@@ -1,0 +1,102 @@
+Traceback (most recent call last):
+  File "/home/bitcat/server/chatwork-bot/main.py", line 42, in <module>
+    schedule.every().monday.at("9:00").do(main)
+  File "/home/bitcat/.local/lib/python3.10/site-packages/schedule/__init__.py", line 485, in at
+    raise ScheduleValueError(
+schedule.ScheduleValueError: Invalid time format for a daily job (valid format is HH:MM(:SS)?)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
+/home/bitcat/server/chatwork-bot/dataframing.py:90: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_mem["１次審査結果"] = df_mem["１次審査結果"].fillna("1次審査OK")
+/home/bitcat/server/chatwork-bot/dataframing.py:116: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+  df_result = df_result.append({'名前':member,'エントリ数':entry_mem,'1次審査OK':first_chk_OK,'1次審査不備':first_chk_rack,'未着手':first_chk_untouch,'照合なし':first_chk_notFound,'2次審査待ち':first_chk_waiting,'取消':second_chk_cancel,'稼働時間':working_time,'平均値':avarage},ignore_index=True)
