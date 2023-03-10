@@ -24,7 +24,7 @@ def main():
     
 
     BASE_URL = 'https://api.chatwork.com/v2'
-    API_KEY  = '4002b12717981aa8cf02764a3dd5892d' 
+    API_KEY  = '' 
     message  = ""
 
     '''
